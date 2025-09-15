@@ -5,14 +5,6 @@ This project was developed as part of our **Grade 12 Computer Studies research**
 
 ---
 
-## 🎓 Achievements
-- 🏆 **Champion** – Research Congress Poster non-tech category (Grade 12)  
-- 🎤 **Presenter** – UP Research Congress 2025  
-
----
-
----
-
 ## 📂 Project Files
 - `RobloxMathGame.rbxl` – The Roblox Studio game file  
 - `screenshots/` – Gameplay images  
